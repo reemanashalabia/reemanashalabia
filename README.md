@@ -50,8 +50,8 @@ I am a passionate software developer specializing in **.NET Core, Angular, and m
 
 ## 📫 Connect With Me  
 💼 [LinkedIn](https://www.linkedin.com/in/reemhalabia)  
-📧 **Email:** reemhalabia.dev@gmail.com  
-🌐 **Website/Portfolio:** (Add your website if available)  
+📧 **Email:** reemanashalabia@gmail.com
+🌐 **Website/Portfolio:** https://www.reemhalabia.com/  
 
 ---
 
